@@ -1,6 +1,6 @@
 |-------------------------------------------------------------|  
 <br>
-Hello! Welcome to my github page.
+Welcome!
 <br>
 <br>
 Feel free to browse my projects :)  
